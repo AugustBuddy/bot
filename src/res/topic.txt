@@ -18,3 +18,8 @@ What programming language do you like, why?
 What programming language do you hate, why?
 Windows better or Linux better or macOS better?
 If you use Linux, what distro do you use?
+What is the purpose of the kernel in a operating system?
+What is IoT?
+What is IP address and what is the difference between IPv4 and IPv6?
+What is URL and what is its purpose?
+What is the difference between code editor and IDE?

@@ -35,3 +35,19 @@ What is lambda?
 What projects did you make in C++?
 Do you like OOP? If yes, why? If not, why?
 Do you like C or C++ more, why?
+What is CMake?
+What are some C++ compilers?
+What is a macro in C++?
+Is the usage of macros good or bad, why?
+What does the #include directive do?
+What is the difference between #include <filename> and #include "filename"?
+What is #pragma once?
+What is #ifdef ... #endif?
+What is a void* pointer in C++ and how is it used? What are some of its limitations?
+What is the difference between Static Library and Dynamic Link Library?
+When should you use a trailing return type in C++ and what are its advantages?
+What is the purpose of the explicit keyword in C++?
+What is the difference between a shallow copy and a deep copy in C++?
+What is ~ in C++?
+Do you think using namespace std is good or bad, why?
+What is the difference between memory allocation in the stack and heap in C++?
