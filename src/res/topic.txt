@@ -14,3 +14,7 @@ What are your favorite resources for learning C++?
 What is the most difficult part of C++?
 What are your favorite C++ features?
 What motivated you to learn C++?
+What programming language do you like, why?
+What programming language do you hate, why?
+Windows better or Linux better or macOS better?
+If you use Linux, what distro do you use?

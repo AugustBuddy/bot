@@ -29,3 +29,9 @@ How do you get the current time?
 How do you get a random number?
 How do you open a file?
 Is C++ memory safe?
+What is auto?
+What is decltype?
+What is lambda?
+What projects did you make in C++?
+Do you like OOP? If yes, why? If not, why?
+Do you like C or C++ more, why?
